@@ -45,11 +45,8 @@ public class HammingCode {
 					str.setCharAt(i, '0');     //even
 				}else{
 					str.setCharAt(i, '1'); 		//odd 
-				}
-					
+				}		
 			}
-			
-			
 		}
 		
 		
